@@ -58,7 +58,7 @@ This code only works for SOL pairs.
 
 **Why are there "no pool keys found"?** 
 
-IF YOU ARE USING A FREE TIER RPC, THIS REPO WILL NOT WORK FOR YOU. FREE TIER RPCS DO NOT ALLOW GET_ACCOUNT_INFO_PARSED().
+FREE TIER RPCS DO NOT ALLOW GET_PROGRAM_ACCOUNTS().
 
 **Does this code work on devnet?**
 
