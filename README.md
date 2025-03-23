@@ -58,7 +58,7 @@ This code only works for SOL pairs.
 
 **Why are there "no pool keys found"?** 
 
-FREE TIER RPCS DO NOT ALLOW GET_PROGRAM_ACCOUNTS().
+Free tier RPCs do not permit GET_PROGRAM_ACCOUNTS()! You must use a paid RPC.
 
 **Does this code work on devnet?**
 
