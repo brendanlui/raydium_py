@@ -5,7 +5,7 @@ Python library to trade on AMM v4 and CPMM Raydium pools.
 ***NOTE: CLMM is not supported. ***
 
 ```
-pip install solana==0.35.0 solders==0.21.0 bitstring==4.3.0
+pip install solana==0.35.0 solders==0.21.0
 ```
 
 Updated: 3/30/2025
