@@ -357,12 +357,12 @@ def fetch_pair_address_from_rpc(
             )
             accounts = response.value
             if accounts:
-                print(f"Found {len(accounts)} matching AMM account(s).")
+                print(f"Found {len(accounts)} matching account(s).")
                 return [account.pubkey.__str__() for account in accounts]
             else:
-                print("No matching AMM accounts found.")
+                print("No matching accounts found.")
         except Exception as e:
-            print(f"Error fetching AMM pair addresses: {e}")
+            print(f"Error fetching pair addresses: {e}")
         return []
 
     pair_addresses = fetch_pair(token_mint, DEFAULT_QUOTE_MINT)
