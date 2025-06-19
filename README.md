@@ -28,11 +28,7 @@ If you use my code, please give me credit in your project!
 
 # Contact
 
-My services are for **hire**.  
-
-I am not your personal tech support and my time is not free. 
-
-READ THE FAQS BEFORE CONTACTING ME!!!
+Check out my tools: https://github.com/AL-THE-BOT-FATHER/bot-father-bundler
 
 Telegram: @AL_THE_BOT_FATHER 
 
