@@ -28,9 +28,9 @@ If you use my code, please give me credit in your project!
 
 # Contact
 
-Check out my tools: https://github.com/AL-THE-BOT-FATHER/bot-father-bundler
+Telegram: https://t.me/AL_THE_BOT_FATHER
 
-Telegram: @AL_THE_BOT_FATHER 
+Group Telegram: https://t.me/Bot_Mafia_Support
 
 
 # FAQS
